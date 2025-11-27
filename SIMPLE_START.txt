@@ -1,0 +1,19 @@
+========================================
+  ETHIC WEBSITE - SIMPLE START GUIDE
+========================================
+
+STEP 1: Open MongoDB Compass and click Connect
+
+STEP 2: Open Command Prompt and run:
+cd C:\Users\patel\OneDrive\Desktop\ethic\backend
+node server.js
+
+STEP 3: Open ANOTHER Command Prompt and run:
+cd C:\Users\patel\OneDrive\Desktop\ethic\frontend
+npm start
+
+STEP 4: Browser opens to http://localhost:3000
+
+Login: admin@ethic.com / admin123
+
+========================================

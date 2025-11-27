@@ -1,0 +1,31 @@
+{
+  "name": "ethic-clothing-brand",
+  "version": "1.0.0",
+  "description": "Premium storytelling clothing brand website with React, Node.js, and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "verify": "node verify-installation.js",
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "setup-env": "cd backend && copy .env.example .env && cd ../frontend && copy .env.example .env",
+    "seed": "cd backend && npm run seed",
+    "dev-backend": "cd backend && npm run dev",
+    "dev-frontend": "cd frontend && npm start",
+    "build-frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "ecommerce",
+    "clothing",
+    "storytelling",
+    "react",
+    "nodejs",
+    "mongodb",
+    "premium",
+    "fashion"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ethic-clothing"
+  }
+}

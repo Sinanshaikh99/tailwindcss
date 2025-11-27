@@ -1,0 +1,34 @@
+========================================
+  HOW TO RUN ETHIC WEBSITE
+========================================
+
+STEP 1: Make sure MongoDB Compass is running
+        (Open MongoDB Compass and click Connect)
+
+STEP 2: Double-click "RUN_EVERYTHING.bat"
+
+STEP 3: Wait 1-2 minutes
+
+STEP 4: Website opens automatically at:
+        http://localhost:3000
+
+========================================
+
+LOGIN:
+  Email: admin@ethic.com
+  Password: admin123
+
+========================================
+
+WHAT IT DOES AUTOMATICALLY:
+✓ Installs all dependencies
+✓ Adds 22 premium products
+✓ Starts backend server
+✓ Starts frontend server
+✓ Opens website in browser
+
+========================================
+
+THAT'S IT! JUST ONE DOUBLE-CLICK!
+
+========================================
